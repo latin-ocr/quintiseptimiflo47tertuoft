@@ -1,0 +1,54 @@
+INDEX SIGLORVM.
+
+ivl = Montepessulanus 54 saec. XI.
+)
+
+ 
+
+I z Paterniacensis 439 saec. XI.
+ΖΝ :2 Florentinus Magliabechianus Gonu. soppr. VI, 9 saec. XV.
+
+F z Florentinus Magliabechianus Conu. soppr. VI, 10 saec. XV.
+
+B z editio Martini Mesnart Parisina a. 1545 (uulgo Gangneiana).
+Bmy z margo editionis Mesnartianae.
+
+R1 z editio princeps Beati Rhenani a. 1521 (paterniacensi superstructa
+
+et Hirsaugiensibus libris hodie deperditis).
+
+R³ z editio tertia Rhenani a. 1539.
+R¹my‚ R³m9 = margines harum editionum.
+
+R z consensus harum editionum.
+
+G :22 lectiones libri Gorziensis a Rhenano in tertia editione usurpati.
+
+C :lectiones codicis Ioannis Clementis Angli a Iacobo Pamelio
+usurpati.
+
+Gel z editio Sigismundi Gelenii a. 1550.
+Pam z editio Iacobi Pamelii a. 1579.
+Iun z editio Francisci Iunii a. 1597.
+Riy Ξ editio Nicolai Rigaltii a. 1634.
+Scal Ξ Iosephus Iustus Scaliger.
+
+Urs Ξ Fuluius Ursinus.
+
+Lat Ξ Latinus Latinius.
+
+Eny Ξ Augustus Engelbrecht.
+
+fort. z: suspiciones meae dubitanter prolatae.
+
+† corruptelae, * siue *²¹³ siue *** lacunae signa.
+
+CO duplicis recensionis signa in libris I et ΙΙ aduersus Marcionem de-
+prehensae. in adnotatione critica stellulae * singulas litteras erasas
+indicant.
+
+L J his uncinis textui interpositis includuntur eae litterae, quae in M iam
+euanuerunt3 iisdem uncinis in adnotatione critica adhibitis inclu-
+duntur eae litterae, quae in codicibus nostris omissae solius B
+debentur memoriae.
+
